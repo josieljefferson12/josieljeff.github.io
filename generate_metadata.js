@@ -23,7 +23,7 @@ const config = {
     'Gemfile.lock'
   ],
   githubUser: 'josieljefferson12',
-  githubRepo: 'josieljefferson12.github.io',
+  githubRepo: 'josieljeff.github.io',
   branch: process.env.CI_COMMIT_REF_NAME || 'main'
 };
 
